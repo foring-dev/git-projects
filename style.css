@@ -1,0 +1,21 @@
+.tag h2 {
+    text-align: center;
+    color: royalblue;
+    font-weight: bolder;
+}
+.apple {
+    border: 2px solid red;
+    margin: 30px;
+    width: 40%;
+    padding: 20px;
+    float: left;
+}
+
+.apple h3 {
+    text-align: center;
+}
+
+section {
+    border: 1px solid royalblue;
+    margin: 20px;
+}
